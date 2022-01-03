@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Rock+3D&display=swap');
+
+body {
+    background-color: antiquewhite;
+    font-family: 'poppins',sans-serif;
+    cursor: url("cursor");
+}
+
+.headp {
+    font-size: 30px;
+    font-family: 'Rock 3D', cursive;
+    margin-right: 50px ;
+    margin-left: 680px;
+}
+
+.doodleart {
+    margin-left: 10%;
+    margin-top: 18%;
+    size-adjust: 20%;
+    
+}
+
+.bodyp {
+    font-size: 50px;
+    margin-top: -350px;
+    margin-right: 50px;
+    margin-left: 680px;
+}
+
+.Passion {
+    margin-left: 680px;
+    margin-top: -30px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+.moreback {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    margin-top: 250px;
+    backface-visibility: ;
+    
+}
+.Moreaboutme {
+    
+    font-size: 50px;
+    
+    margin-right: 680px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+
+.Contactform{
+margin-left: 35%;
+margin-top: 40px;
+}
+
+
+
